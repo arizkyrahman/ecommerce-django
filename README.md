@@ -2,9 +2,9 @@
 This project is a complete E-commerce web application built using the Django framework. It includes features like user registration, product management, shopping cart, checkout, payment gateway integration with Razorpay, and Google sign-in.
 
 ## Features
-- User Registration and Authentication
-Users can sign up and log in to their accounts.
-Google sign-in allows users to log in using their Google accounts.
+### User Registration and Authentication
+- Users can sign up and log in to their accounts.
+- Google sign-in allows users to log in using their Google accounts.
 
 - Product Management
 -- Admin users can add, edit, and delete products.
