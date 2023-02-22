@@ -7,7 +7,7 @@ Users can sign up and log in to their accounts.
 Google sign-in allows users to log in using their Google accounts.
 
 - Product Management
-Admin users can add, edit, and delete products.
+-- Admin users can add, edit, and delete products.
 
 - Shopping Cart
 Users can add products to their shopping cart and remove them.
